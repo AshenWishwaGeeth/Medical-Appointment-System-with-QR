@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="QRCodeMedicalRecords/src"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/commons-beanutils-1.9.4 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/commons-collections-3.2.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/commons-collections4-4.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/commons-digester-2.1 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/commons-logging-1.1.1 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/ecj-3.21.0.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/jackson-annotations-2.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/jackson-core-2.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/jackson-databind-2.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/jackson-dataformat-xml-2.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/jasperreports-6.20.5.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/mysql-connector-java-8.0.30 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/openpdf-1.3.30.jaspersoft.2.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/stax2-api-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/ZIP/ZIP/woodstox-core-6.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachi/Downloads/core-3.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sachi/Downloads/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="output" path="QRCodeMedicalRecords/bin"/>
+</classpath>
